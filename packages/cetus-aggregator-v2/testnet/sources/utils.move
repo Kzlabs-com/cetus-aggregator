@@ -1,4 +1,4 @@
-module cetus_aggregator::utils;
+module cetus_aggregator_v2::utils;
 
 use sui::coin::{Self, Coin};
 

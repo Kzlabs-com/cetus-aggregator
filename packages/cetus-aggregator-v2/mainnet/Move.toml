@@ -31,5 +31,5 @@ token = { local = "../../externals/deepbookv3-old/token" }
 
 
 [addresses]
-cetus_aggregator_v2 = "0xeffc8ae61f439bb34c9b905ff8f29ec56873dcedf81c7123ff2f1f67c45ec302"
+cetus_aggregator_v2 = "0x52eae33adeb44de55cfb3f281d4cc9e02d976181c0952f5323648b5717b33934"
 # cetus_aggregator_v2 = "0x0"
